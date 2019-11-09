@@ -9,3 +9,5 @@
 __Link to the site:__
 
 [Chalets and Caviar](http://dev-integrate-a-wordpress-theme-for-a-client.pantheonsite.io/)
+
+![Chalet and Caviar](/image/chalet-and-caviar.jpg)
