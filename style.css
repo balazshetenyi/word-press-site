@@ -1,0 +1,37 @@
+.navbar .navbar-nav>li>a {
+	font-size: 14px;
+	font-weight: 600;
+	color: #FFC425;
+	text-transform: none;
+}
+.carousel h1.hestia-title {
+	color: #FFDA76
+}
+.carousel span.sub-title {
+	color: #FFDA76;
+}
+#carousel-hestia-generic .btn {
+	color: #FFDA76;
+}
+h5 {
+	font-family: Open sans;
+	font-weight: normal;
+}
+.es-dropdown-wrap {
+	font-size: 18px !important;
+}
+.page-content-wrap h1 {
+	text-align: center;
+}
+.page-content-wrap p {
+	text-align: center;
+}
+#carousel-hestia-generic span.sub-title {
+	font-size: 20px;
+}
+input.es-button.es-button-orange-corner {
+	padding: 0px 0px;
+}
+input.es-button.es-button-gray {
+	border-radius: 50px;
+}
